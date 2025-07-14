@@ -1,0 +1,2 @@
+Please provide a recommended configuration for the devices in this topology allowing the two PCs connect. Thank you
+Can you provide all of the network configurations for the devices in this diagram? Use OSPF please. 
